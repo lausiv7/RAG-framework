@@ -23,6 +23,7 @@ rag-architecture/
 │   ├── db_server.py
 
 
+![image](https://github.com/user-attachments/assets/0b2d6d09-3131-440d-8c8f-456dd90f7d5b)
 
 
 
