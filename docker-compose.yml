@@ -1,0 +1,32 @@
+version: '3.8'
+
+services:
+  framework:
+    build: ./framework
+    ports:
+      - "8000:8000"
+    depends_on:
+      - llm1
+      - llm2
+      - vector_db1
+      - vector_db2
+
+  llm1:
+    build: ./llm1
+    ports:
+      - "8001:8001"
+
+  llm2:
+    build: ./llm2
+    ports:
+      - "8002:8002"
+
+  vector_db1:
+    build: ./vector_db1
+    ports:
+      - "8003:8003"
+
+  vector_db2:
+    build: ./vector_db2
+    ports:
+      - "8004:8004"
