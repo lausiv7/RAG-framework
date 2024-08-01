@@ -27,5 +27,5 @@ rag-architecture/
 
 
 
-https://docs.aws.amazon.com/ko_kr/sagemaker/latest/dg/pipelines.html
+https://docs.aws.amazon.com/ko_kr/sagemaker/latest/dg/jumpstart-foundation-models-customize-rag.html
 https://medium.com/@bijit211987/advanced-rag-for-llms-slms-5bcc6fbba411
