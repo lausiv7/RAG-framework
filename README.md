@@ -27,5 +27,5 @@ rag-architecture/
 
 
 
-https://docs.aws.amazon.com/ko_kr/sagemaker/latest/dg/jumpstart-foundation-models-customize-rag.html
+https://aws.amazon.com/ko/blogs/tech/multi-rag-and-multi-region-llm-for-chatbot/
 https://medium.com/@bijit211987/advanced-rag-for-llms-slms-5bcc6fbba411
